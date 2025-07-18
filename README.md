@@ -1,157 +1,166 @@
 <div align="center">
-  <img src="https://github.com/supremovb/supremovb/blob/main/assets/images/primo-velasquez.jpg?raw=true" width="200" height="200" style="border-radius:50%; border: 5px solid #ff477e; box-shadow: 0 0 20px rgba(255,71,126,0.5);"/>
-  
-  <h1 align="center">✨ Primo Velasquez ✨</h1>
-  <h3 align="center">🚀 Full Stack Developer | 🎓 Dean's Lister | ☕ Coffee Enthusiast</h3>
-  
-  <!-- Animated Typing Text -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF477E&center=true&vCenter=true&width=500&lines=I+build+exceptional+digital+experiences;3%2B+years+development+experience;Open+to+collaborations+%26+freelance" alt="Typing Animation" />
+  <img src="https://raw.githubusercontent.com/supremovb/supremovb/main/assets/images/primo-velasquez.jpg" alt="Primo Velasquez" width="200" style="border-radius: 50%; border: 4px solid #f06292;">
+  <h1>Hi, I'm Primo Velasquez 👋</h1>
+  <h3>A Passionate Full Stack Developer from Cavite, Philippines</h3>
+  <p>I build exceptional digital experiences with modern web technologies, focusing on responsive, user-friendly applications with clean, efficient code.</p>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/primo-velasquez-your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/supremovb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.facebook.com/supremovb" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:primokenjivelasquez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=supremovb&show_icons=true&theme=radical&hide_border=true" alt="Primo's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supremovb&theme=radical&hide_border=true" alt="Primo's GitHub Streak"/>
+</div>
+
+<br>
+
+I'm a dedicated **Full Stack Developer** with **3+ years of experience** specializing in crafting robust and intuitive web applications. My journey in Information Technology began in 2020 at **St. Dominic College of Asia**, where I've been consistently recognized as a Dean's Lister. In 2025, I further solidified my foundational skills by earning the **IT Specialist in HTML & CSS** certification from Certiport.
+
+Currently, I'm working as a **Web Developer at I.T Expert Solutions**, where I contribute to designing and implementing diverse web solutions, from e-commerce platforms to custom applications. Before this role, I honed my skills as a **Freelance Web and Application Developer**, delivering tailor-made solutions for various clients.
+
+My passion lies in transforming complex challenges into elegant, high-performing digital experiences. I thrive on clean code, efficient solutions, and continuous learning.
+
+---
+
+## 🛠️ My Skills
+
+Here's a breakdown of my technical expertise:
+
+### Frontend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+</p>
+
+### Backend Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4423?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
+  <img src="https://img.shields.io/badge/Inertia.js-9553E2?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js">
+</p>
+
+### Databases & Other Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
+---
+
+## 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supremovb&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+Here are some of my significant projects, showcasing my full-stack development capabilities:
+
+### Library System
+A comprehensive library management system built with **CodeIgniter framework** and **MySQL database**. Features include book cataloging, member management, borrowing/returning system, and reporting.
+
+| [View Demo](https://www.youtube.com/watch?v=xNRYMM22yJw) | [Source Code](https://github.com/supremovb/LIBRARY_SYSTEM) |
+|---|---|
+
+### Car Rental System
+A complete car rental management system developed with **CodeIgniter** and **MySQL**. Includes vehicle inventory, reservation system, customer management, billing, and admin dashboard.
+
+| [View Demo](https://www.youtube.com/watch?v=4gdlYZRUtQg) | [Source Code](https://github.com/supremovb/CAR-RENTAL-SYSTEM) |
+|---|---|
+
+### POS System Software
+Point of Sale system developed with **C# .NET** and **SQLite database**. Features include inventory management, sales tracking, receipt printing, customer management, and sales reporting.
+
+| [View Demo](https://www.youtube.com/watch?v=RsxvVumfrgA) | Source Code (Private) |
+|---|---|
+
+### Barangay Management System (BMS)
+A robust Barangay Management System developed using **Laravel**, **Bootstrap**, and **MySQL**. It streamlines resident records, document requests, and barangay transactions for efficient local governance.
+
+| [View Demo](https://www.youtube.com/watch?v=l_4-cOdNDz0) | Source Code (Private) |
+|---|---|
+
+### Carwash Management System
+A modern Carwash Management System built with **React.js**, **TypeScript**, and **Firebase**. It features real-time booking, customer management, and service tracking for efficient carwash operations.
+
+| [View Demo](https://www.youtube.com/watch?v=gJ6l0Oaodok) | Source Code (Private) |
+|---|---|
+
+### Coffee Shop Management System
+A Coffee Shop Management System built with **React.js** and **Firebase**. It provides order management, inventory tracking, and real-time updates for efficient coffee shop operations.
+
+| [View Demo](https://www.youtube.com/watch?v=YkJrqgOLyag) | Source Code (Private) |
+|---|---|
+
+---
+
+## 📄 Resume & Certifications
+
+Feel free to explore my full qualifications and professional journey.
+
+* **Download My Resume:** [Primo Velasquez Resume.pdf](assets/docs/primo-velasquez-resume.pdf)
+* **View Certiport IT Specialist in HTML & CSS Certification:** [Certiport Certificate.pdf](assets/docs/certiport-certificate.pdf)
+
+---
+
+## 🎉 Fun Facts
+
+Let's sprinkle in some fun!
+
+| <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffee/coffee-original.svg" width="50" alt="Coffee"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" alt="GitHub"/></div> | <div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/happy/happy-original.svg" width="50" alt="Happy Clients"/></div> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **1500+ Cups of Coffee** <br> (Fueled by caffeine and code!) | **120,000+ Lines of Code** <br> (And counting!) | **35+ Projects Completed** <br> (Bringing ideas to life) | **100% Happy Clients** <br> (Always striving for satisfaction) |
+
+
+---
+
+<div align="center">
+  <p>
+    Connect with me! Let's build something amazing together.
   </p>
-
-  <!-- Glowing Social Badges -->
-  <p align="center">
-    <a href="https://www.facebook.com/supremovb" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=FF477E" alt="Facebook"/>
-    </a>
-    <a href="https://github.com/supremovb" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FF477E" alt="GitHub"/>
-    </a>
-    <a href="mailto:primokenjivelasquez@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF477E" alt="Gmail"/>
-    </a>
-  </p>
-  
-  <!-- Visitor Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=supremovb&label=Profile%20Views&color=ff477e&style=flat" alt="supremovb" /> 
-  </p>
+  <a href="mailto:primokenjivelasquez@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hi!-primokenjivelasquez@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Me">
+  </a>
+  <a href="https://www.linkedin.com/in/primo-velasquez-your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me-blueviolet?style=for-the-badge&logo=hire&logoColor=white" alt="Hire Me">
+  </a>
 </div>
-
----
-
-## 🔥 Featured Projects
-
-<!-- Projects Grid with GIFs -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Library System</h3>
-        <div align="center">
-          <a href="https://www.youtube.com/watch?v=xNRYMM22yJw" target="_blank">
-            <img src="https://github.com/supremovb/supremovb/blob/main/assets/gifs/library-system.gif?raw=true" width="400" style="border-radius:10px; border: 2px solid #ff477e;"/>
-          </a>
-          <p>CodeIgniter | PHP | MySQL</p>
-          <a href="https://github.com/supremovb/LIBRARY_SYSTEM" target="_blank">
-            <img src="https://img.shields.io/badge/-SOURCE%20CODE-ff477e?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Car Rental System</h3>
-        <div align="center">
-          <a href="https://www.youtube.com/watch?v=4gdlYZRUtQg" target="_blank">
-            <img src="https://github.com/supremovb/supremovb/blob/main/assets/gifs/car-rental.gif?raw=true" width="400" style="border-radius:10px; border: 2px solid #ff477e;"/>
-          </a>
-          <p>CodeIgniter | jQuery | MySQL</p>
-          <a href="https://github.com/supremovb/CAR-RENTAL-SYSTEM" target="_blank">
-            <img src="https://img.shields.io/badge/-SOURCE%20CODE-ff477e?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠 Tech Stack
-
-<!-- Animated Tech Stack -->
-<div align="center">
-  
-  ### Frontend
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  
-  ### Backend
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  
-  ### Databases
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  
-  ### Other
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<!-- Dynamic GitHub Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=supremovb&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff477e&icon_color=ff477e" alt="Primo's GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=supremovb&theme=radical&background=0d1117&hide_border=true&stroke=ff477e&ring=ff477e&fire=ff477e&currStreakNum=ffffff&currStreakLabel=ff477e" alt="GitHub Streak"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supremovb&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=ff477e" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎓 Education Timeline
-
-<!-- Animated Timeline -->
-<div align="center">
-  
-| Year | Milestone |
-|------|-----------|
-| 🎓 **2020** | Started BS in Information Technology at St. Dominic College of Asia |
-| 💻 **2021** | First freelance web development project |
-| 🏆 **2023** | Consistent Dean's Lister |
-| 🚀 **2024** | Launched multiple full-stack projects |
-| 📜 **2025** | Certified IT Specialist (HTML & CSS) |
-
-</div>
-
----
-
-## ☕ Fun Facts
-
-<!-- Counter Animation -->
-<div align="center">
-  
-```javascript
-const primo = {
-  codePerDay: "8 hours",
-  coffeeConsumption: "1500+ cups",
-  projectsCompleted: 35,
-  happyClients: 100,
-  currentFocus: "React + Laravel Stack"
-};
-</div>
-<div align="center">
-https://img.shields.io/github/followers/supremovb?label=Follow%2520%2540supremovb&style=social
-
-⭐️ From Primo Velasquez
-
-</div> ```
