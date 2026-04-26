@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-primovb.dev-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://primovb.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--primo--velasquez.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-primo-velasquez.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-supremovb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supremovb)
 [![Facebook](https://img.shields.io/badge/Facebook-s.pkv24-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/s.pkv24)
 [![Email](https://img.shields.io/badge/Email-primokenjivelasquez%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primokenjivelasquez@gmail.com)
@@ -117,7 +117,7 @@ My projects span **disaster response mapping**, **inventory management**, **e-co
 | 📈 **[CryptoStream](https://github.com/supremovb/Real-Time-Analytics-Stock-Monitor-The-Data-Project-)** | Real-time crypto analytics with WebSocket streaming | SolidJS · Go · Redis · Docker |
 | 🗂️ **[Collaborative Task Board](https://github.com/supremovb/Real-Time-Collaborative-Task-Board)** | Real-time Kanban board with drag-and-drop & live presence | Next.js · Socket.io · MongoDB |
 
-> View all 25+ projects → **[primovb.dev](https://primovb.dev)**
+> View all 25+ projects → **[portfolio-primo-velasquez.vercel.app](https://portfolio-primo-velasquez.vercel.app)**
 
 ---
 
@@ -135,7 +135,7 @@ My projects span **disaster response mapping**, **inventory management**, **e-co
 
 **Open to full-time, freelance, and collaborative opportunities.**
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-primovb.dev-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://primovb.dev)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-portfolio--primo--velasquez.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-primo-velasquez.vercel.app)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:primokenjivelasquez@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" />
